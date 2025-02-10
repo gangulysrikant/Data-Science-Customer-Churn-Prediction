@@ -1,3 +1,5 @@
+#  DATA SCIENCE CUSTOMER CHURN PREDICTION - Virtual Internship at BCG #
+
 ### 1: Business Understanding & Problem Framing
 
 
