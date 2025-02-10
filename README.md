@@ -3,9 +3,9 @@
 ### 1: Business Understanding & Problem Framing
 
 
-How to quickly understand the business context
+Understanding the business context
 
-**Background information on task 1**
+**Task 1**
 
 PowerCo is a major gas and electricity utility that supplies to corporate, SME (Small & Medium Enterprise), and residential customers. The power-liberalization of the energy market in Europe has led to significant customer churn, especially in the SME segment. They have partnered with BCG to help diagnose the source of churning SME customers.
 
@@ -17,13 +17,11 @@ Your LDS wants an email with your thoughts on how the team should go about to te
 
 **Objectives:**
 
-Your first task today is to understand what is going on at the client and think about how you would approach a problem like this to test this specific hypothesis.
+First task is to understand what is going on at the client and think about how one would approach a problem like this to test this specific hypothesis.
 
-Formulate the hypothesis as a data science problem and lay out the major steps needed to test this hypothesis. Communicate your thoughts and findings in an email to your LDS, focusing on the potential data that you would need from the client and analytical models you would use to test such a hypothesis.
+Formulating the hypothesis as a data science problem and laying out the major steps needed to test this hypothesis. Communicating our thoughts and findings in an email to your LDS, focusing on the potential data that would be needed from the client and analytical models to be used to test such a hypothesis.
 
-We would suggest spending no more than one hour on this task.
 
-Please note, there are multiple ways to approach the task and that the sample answer is just one way to do it.
 
 ------------------------------------------------------------------------------------------------------------------------------------------------------------
 ### 2: Exploratory Data Analysis & Data Cleaning
@@ -42,9 +40,6 @@ Historical pricing data: variable and fixed pricing data etc
 Churn indicator: whether each customer has churned or not
 These datasets are otherwise identical and have historical price data and customer data (including churn status for the customers in the training data).
 
-We recommend spending no more than 1.5 hours on this task.
-
-Please note, there are multiple ways to approach the task and that the sample answer is just one way to do it.
 
 Objectives:
 
@@ -91,4 +86,3 @@ Sub-Task 2: Evaluate your model, using a holdout set, and with metrics of your c
 
 Sub-Task 3: Interpret the results and use them to formulate your answers to the client’s hypotheses and questions. You will be asked to form these answers into coherent thoughts and recommendations in the next module.
 
-Please note, there are multiple ways to approach the task and that the sample answer is just one way to do it.
